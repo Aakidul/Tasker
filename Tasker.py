@@ -8,7 +8,7 @@ def main():
     task = {}
 
     while True:
-        user_input = input("ENTER DAILY TASK'S: ")
+        user_input = input("[+] ENTER DAILY TASK'S: ")
 
         if user_input.lower() == "done":
             break
